@@ -5,21 +5,23 @@ Arch Linux runng Owncloud on the RaspberryPi, contained within Docker, managed b
 
 These are my instructions for my environment; I recommend you read through everything once and note where your environment is different first, before you attemp to do anything.
 
-- Warnings
-- Notes
-- Assumptions
-- Outcomes
-- Steps
-- 	Prepare your SD card for the Pi
-- 	Setup Arch
-- 	Setup Puppet
-- 	Get the Config setup
-- 	Apply Config to the Pi
-- 	Enjoy
+## Contents
+
+* Warnings
+* Notes
+* Assumptions
+* Outcomes
+* Steps
+	* Prepare your SD card for the Pi
+	* Setup Arch
+	* Setup Puppet
+	* Get the Config setup
+	* Apply Config to the Pi
+	* Enjoy
 
 
-- Warnings
--
+## Warnings
+
 Per the notes I am a beginner and this is for my environment.
 
 Therefore this only installs
