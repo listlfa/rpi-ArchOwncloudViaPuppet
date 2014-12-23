@@ -17,6 +17,7 @@ These are my instructions for my environment; I recommend you read through every
 - Notes
 - 
 I am a beginner for Linux.  Currently these are my notes for my enviornment some/all of this may not suit you.
+
 Some system linux commands  http://www.tecmint.com/command-line-tools-to-monitor-linux-performance/
 
 - Assumptions
