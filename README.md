@@ -19,7 +19,7 @@ These are my instructions for my environment; I recommend you read through every
 
 
 - Warnings
-- -
+-
 Per the notes I am a beginner and this is for my environment.
 
 Therefore this only installs
