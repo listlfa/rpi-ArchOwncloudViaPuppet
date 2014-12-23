@@ -30,7 +30,7 @@ And you are required to configure the
 - Domain name
 - SSL Key
 - SSL Passphrase
-- 
+
 
 - Notes
 - 
