@@ -30,9 +30,9 @@ And you are required to configure the
 - Domain name
 - SSL Key
 - SSL Passphrase
-
-
-- Notes
+- 
+- 
+- - Notes
 - 
 I am a beginner for Linux.  Currently these are my notes for my enviornment some/all of this may not suit you.
 
