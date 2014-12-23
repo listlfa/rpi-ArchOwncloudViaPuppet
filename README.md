@@ -3,7 +3,10 @@ rpi-ArchOwncloudViaDockerAndPuppet
 
 Arch Linux runng Owncloud on the RaspberryPi, contained within Docker, managed by Puppet. Includes storage to external USB.
 
+If you have suggestions please use GitHub and create and edit and Pull Request.  It's free, relatively quick, and relatively easy, and most importantly shows everyone your good work.
+
 These are my instructions for my environment; I recommend you read through everything once and note where your environment is different first, before you attemp to do anything.
+
 
 ## Contents
 
@@ -62,3 +65,22 @@ Some system linux commands  http://www.tecmint.com/command-line-tools-to-monitor
 		* Install of linux
 		* Configure minimal Owncloud settings (via text file)
 
+
+
+# Steps
+
+Install Arch Linux on your SD card and pop it into your RPI
+Ensure your Windows machine has Putty
+	http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
+Log into your RPI with Putty
+	you may need to ping IP's or log into your modem to see what name / IP the RPI now has.  Mine has the name alarmpi but i don't know if that is from an old install
+	follow Arch instructions, but default login should be Root and Root, for username and password.
+* Update Arch
+~~~
+pacman -Syu
+~~~
+
+* Install Puppet
+~~~
+pacman -S puppet
+~~~
